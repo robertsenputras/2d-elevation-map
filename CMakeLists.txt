@@ -1,6 +1,6 @@
 ## Set up the CMake project.
 cmake_minimum_required(VERSION 3.10.2)
-project(anybotics_coding_challenge VERSION 0.0.1 LANGUAGES CXX)
+project(elevation_map VERSION 0.0.1 LANGUAGES CXX)
 
 ## Set the C++ standard.
 set(CMAKE_CXX_STANDARD 17)

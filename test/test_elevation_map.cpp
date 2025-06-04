@@ -1,8 +1,8 @@
 #include <gtest/gtest.h>
 
-#include <anybotics_coding_challenge/ElevationMap.hpp>
+#include <elevation_map/ElevationMap.hpp>
 
-using namespace anybotics_coding_challenge;
+using namespace elevation_map;
 
 static ElevationMap& getFreshMap()
 {
