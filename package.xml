@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>anybotics_coding_challenge</name>
+  <version>0.1.0</version>
+  <description>
+    Package to implementing a robot centric 1D elevation map
+  </description>
+
+  <maintainer email="robertsenputras@gmail.com.com">Robertsen</maintainer>
+  <license>BSD</license>
+
+  <depend>catkin</depend>
+  <depend>roscpp</depend>
+  <depend>gtest</depend>
+
+  <export>
+    <build_type>catkin</build_type>
+  </export>
+</package>
